@@ -2,6 +2,8 @@
 
 For this project, we are imagining that municipal governments are concerned about their average high school graduation rates. They want to increase them and are already working on doing so from many angles. However, they are curious to know what the data say and have hired us to look at various factors that may affect graduation rates and then make recommendations for high impact areas to focus efforts on. 
 
+### Contents
+You'll find a technical notebook, visualizations as pngs, and our supplementary datasets in this repository.
 
 ### Data
 
